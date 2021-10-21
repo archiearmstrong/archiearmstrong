@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @archiearmstrong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--
+archiearmstrong/archiearmstrong/README.md is a special file because it will appear on archiearmstrong's GitHub profile unless it doesn't.
+-->
 
-<!---
-archiearmstrong/archiearmstrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Recent physics graduate looking for some work!
+- Like to Tinker in Python, experienced in Mathematica & MATLAB.
+- Eager to collaborat on any promject. 👀
+  Contact me on [Linkedin](https://www.linkedin.com/in/archiearmstrong)
