@@ -4,5 +4,5 @@ archiearmstrong/archiearmstrong/README.md is a special file because it will appe
 
 - Recent physics graduate looking for some work!
 - Like to tinker with simulation and analysis in Python, experienced in Mathematica & MATLAB.
-- Eager to collaborate on any promject. 👀
+- Eager to collaborate on any project. 👀
   Contact me on [Linkedin](https://www.linkedin.com/in/archiearmstrong)
